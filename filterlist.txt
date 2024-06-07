@@ -107,9 +107,6 @@ ua_device|$$|M2006C3MG|$$|screen_resolution|$$|1080x1920|$$|block
 ua_device|$$|M2006C3MG|$$|screen_resolution|$$|847x476|$$|block
 ua_device|$$|M2006C3MG|$$|screen_resolution|$$|800x360|$$|block
 ua_device|$$|iPhone|$$|touch_support|$$|""|$$|block
-ua_device|$$|Mac|$$|touch_support|$$|maxTouchPoints|$$|block
-ua_device|$$|Mac|$$|touch_support|$$|touchEvent|$$|block
-ua_device|$$|Mac|$$|touch_support|$$|touchStart|$$|block
 ua_device|$$|iPhone|$$|maxTouchPoints|$$|5|$$|allow
 ua_device|$$|iPad|$$|maxTouchPoints|$$|5|$$|allow
 ua_device|$$|iPhone|$$|hw_concurrency|$$|3|$$|block
@@ -130,7 +127,6 @@ ua_browser|$$|Samsung Internet|$$|ua_os|$$|Linux|$$|block
 ua_browser|$$|MiuiBrowser|$$|ua_os|$$|Linux|$$|block
 ua_browser|$$|Mobile Safari|$$|vendor|$$|Google Inc.|$$|block
 ua_browser|$$|Firefox|$$|vendor|$$|Google Inc.|$$|block
-ua_browser|$$|Chrome Mobile|$$|vendor|$$|Apple Computer, Inc.|$$|block
 ua_browser|$$|Mobile Safari|$$|platform|$$|Linux x86_64|$$|block
 ua_browser|$$|Mobile Safari|$$|platform|$$|Win32|$$|block
 ua_browser|$$|Chrome Mobile|$$|platform|$$|Linux x86_64|$$|block
@@ -193,7 +189,6 @@ platform|$$|aarch64|$$|vendor_flavors|$$|gCrWeb||$$|block
 platform|$$|armv7l|$$|vendor_flavors|$$|gCrWeb||$$|block
 ua_browser|$$|Opera|$$|vendor_flavors|$$|gCrWeb||$$|block
 ua_os|$$|Android|$$|touch_support|$$|""||$$|block
-ua_os|$$|Mac OS X|$$|maxTouchPoints|$$|0||$$|allow
 ua_device|$$|M2004J19C|$$|maxTouchPoints|$$|5|$$|allow
 ua_device|$$|Samsung SM-A515F|$$|maxTouchPoints|$$|5|$$|allow
 ua_device|$$|Samsung SM-A525F|$$|maxTouchPoints|$$|5|$$|allow
